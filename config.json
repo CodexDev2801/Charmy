@@ -1,0 +1,12 @@
+{
+    "bot_token": "NjM1ODI0OTkzMjUwNTc0MzQ2.Xa2sKw.AYWqzpIBsBjJuSwzZC8wPSDzKpk",
+    "prefixes": [
+        "!",
+        "*"
+    ],
+    "owners": [
+        "663844987871559710"
+    ],
+    "mongo_uri": "mongodb+srv://Codex:Halo2001@cluster0.m6jzg.mongodb.net/Charmy?retryWrites=true&w=majority"
+    
+    }

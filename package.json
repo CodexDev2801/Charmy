@@ -1,0 +1,40 @@
+{
+  "name": "discord-v12-bot-with-language-support",
+  "version": "12.2.0",
+  "description": "An empty template to get you started when making a new bot. Now with MongoDB support!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+    "v12",
+    "lang",
+    "language",
+    "tempalte",
+    "ready",
+    "configurable",
+    "mongo",
+    "mongodb",
+    "mongoose",
+    "database",
+    "cooldown"
+  ],
+  "author": "Barış DEMİRCİ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "canvas": "^2.6.1",
+    "chartjs-node-canvas": "^3.0.6",
+    "discord.js": "^12.3.1",
+    "locale-parser": "^1.1.0",
+    "megadb": "^3.4.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.9",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "quickdb": "^1.0.5"
+  }
+}
